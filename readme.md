@@ -4,7 +4,9 @@ Originally title should be "Today I Learned" but I'll be honest with you.
 I have not learned all those things below during one day. 
 Ufff! Now when we have that one out the picture, we can keep going. 
 I've named mine collection Things I Learnt. 
-In another moment of honesty I would admit that I did that accidentaly.
+In another moment of honesty I would admit that I did that accidentaly and there is no evidence of that mistake anywhere, anymore. 
+
+Talking about good introduction, huh?
 
 ## About
 
