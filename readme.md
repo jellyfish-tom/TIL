@@ -1,6 +1,6 @@
 # TIL - Things I Learned
 
-Originally title should be "Today I Learned" but I'll be honest with you - I have not learned all those things below during one day. 
+Originally title should be "Today I Learned" but I'll be honest with you - I have not learned all those things in one day. 
 
 ## About
 
